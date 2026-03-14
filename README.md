@@ -70,7 +70,3 @@ Read : 10 20 30 40
 * Xilinx Vivado Simulator
 
 ---
-
-## Author
-
-FPGA / VLSI Design Project
